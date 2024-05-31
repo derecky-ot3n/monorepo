@@ -1,0 +1,1 @@
+export { PaymentSuccess } from './payment-success.ui'

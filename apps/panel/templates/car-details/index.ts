@@ -1,0 +1,1 @@
+export { InquiryVehicleDetails } from './car-details.ui'

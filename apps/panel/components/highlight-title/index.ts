@@ -1,0 +1,1 @@
+export { HighlightTitle } from './highlight-title.ui'
